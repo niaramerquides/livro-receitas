@@ -4,4 +4,4 @@ Olá! Bem vinde ao meu livro de receitas 👋
 
 - Cheesecake
 
-- 
+- Shortcake (added from mac)
